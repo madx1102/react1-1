@@ -12,7 +12,7 @@ git bash 명령어
  git config user.email
 
 
- 파일을 수정하고 소스 컨트롤에서 commit 하고 푸쉬
+ 파일을 수정하고 소스 컨트롤에서 commit 하고 푸쉬 / 소스 컨트롤에서 수정 전과 후도 비교 가능
  여기에서 commit 한 내역은 git Graph를 깔아서 내역 확인 밑 태그 달기 등으로 정리
 
  github랑 연동하기 
