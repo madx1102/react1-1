@@ -33,7 +33,7 @@ html xml에 자바스크립트 코드를 사용하려면 {}괄호 사용
 이 때 Virtual DOM을 사용한다.  
 
 ### 엘리먼트 렌더링
-![654654687](https://github.com/madx1102/react1-1/assets/162391761/f143b4e9-118c-4ab7-bc72-680ddedc162f)  
+![654654687](https://github.com/madx1102/react1-1/assets/162391761/434695b0-ec49-47e5-ab9c-1cffea412e6c)
 ### 렌더링 된 엘리먼트 업데이트  
 ![896587789987897897](https://github.com/madx1102/react1-1/assets/162391761/01ff150e-1f90-4f7b-9522-b0688f2d1e1e)
 
