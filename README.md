@@ -1,5 +1,5 @@
 # 김석진 202030407
-처음 만난 리액트 저자 깃허브 주소 https://github.com/soaple/first-met-react-practice-v18
+처음 만난 리액트 저자 깃허브 주소 https://github.com/soaple/first-met-react-practice-v18  
 가급적이면 개념을 정리하는 것을 목표로 한다.  
 개념내용을 직관적으로 설명할 수 없을 경우 이미지를 사용하자  
 자세한 내용은 교재 참고  
