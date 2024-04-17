@@ -6,6 +6,9 @@ import reportWebVitals from './reportWebVitals';
 import Hello from './Hello';
 import Library from './Library';
 import Clock from './Clock';
+import Welcome from './Welcome';
+import CmtList from './CmtList';
+import NotificationList from './NotificationList';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
@@ -13,6 +16,13 @@ root.render(
     <Hello towhat = "world"/>
     <Library/>
     <Clock/>
+    <Welcome name="인제"/>
+    <Welcome name="샌즈"/>
+    <Welcome name="뷁"/>
+    <CmtList/>
+    <NotificationList/>
+
+
   </React.StrictMode>
 );
 
