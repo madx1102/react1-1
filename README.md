@@ -5,7 +5,7 @@
 자세한 내용은 교재 참고  
 ## 5월 29일 강의 내용
 ### 태그
-textarea : 
+textarea :   
 select : textarea와 동일  
 File input : 읽기 전용이기 때문에 리액트에서 비제어 컴포넌트가 된다.  
 Input Null Value :value prop을 정해진 값으로 넣으면 코드를 수정하지 않는 이상 입력값을 바꿀 수 없다  
