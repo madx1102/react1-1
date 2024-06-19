@@ -13,16 +13,6 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
-    <Hello towhat = "world"/>
-    <Library/>
-    <Clock/>
-    <Welcome name="인제"/>
-    <Welcome name="샌즈"/>
-    <Welcome name="뷁"/>
-    <CmtList/>
-    <NotificationList/>
-
-
   </React.StrictMode>
 );
 
